@@ -31,20 +31,20 @@
 }
 
 #three-piece{
-  height: 5vw;
+  width: 12%;
 }
 
 #mongo-icon{
-  height: 5vw;
+  width: 25%;
 }
 #express-icon{
-  height: 5vw;
+  width: 25%;
 }
 #react-icon{
-  height: 5vw;
+  width: 10%;
 }
 #node-icon{
-  height: 5vw;
+  width: 15%;
 }
 
 #uplift{
