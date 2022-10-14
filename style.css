@@ -27,7 +27,7 @@
 
 .stack-icons{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 #three-piece{
